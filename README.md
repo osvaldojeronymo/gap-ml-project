@@ -59,8 +59,10 @@ pip install -r requirements.txt
 ---
 
 ## Resultados e Visualizações
+
 ### GAP ao longo do tempo
 ![GAP ao longo do tempo](visuals/gap_time_series.png)
+
 ### Matriz de Confusão
 ![Confusion Matrix](visuals/confusion_matrix.png)
 
